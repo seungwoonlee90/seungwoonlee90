@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 
 ### ✍🏻 More Information
 
+<a mailto="seungwoonlee90@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> </a>
 <a href="https://veil-jonquil-16f.notion.site/ethanlogue-74857314286d45dd92c7a7fc41b98549" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a>
