@@ -1,7 +1,4 @@
-## Hi Everyone 👋
-
-- I'm a ds & developer
-- I’m currently learning React.js
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Hi%20everyone&fontSize=85)
 
 ### 💪🏻 Skills
 #### Languages
