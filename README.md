@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a junior ds & developer.
+- I'm a ds & developer
 - I’m currently learning React.js
 
 <!--
