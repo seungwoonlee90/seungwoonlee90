@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React.js
+- I'm a junior ds & developer.
+- I’m currently learning React.js
 
 <!--
 **seungwoonlee90/seungwoonlee90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
