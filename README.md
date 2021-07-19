@@ -3,8 +3,6 @@
 - I'm a ds & developer
 - I’m currently learning React.js
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seungwoonlee90)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 💪🏻 Skills
 #### Languages
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
