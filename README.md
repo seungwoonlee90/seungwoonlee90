@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=print("Hello%20world")&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=print("hello%20world!")&fontSize=65)
 
 ### 💪🏻 Skills
 #### Languages
