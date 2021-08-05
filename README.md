@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&height=200&section=header&text=print("Hello&#160;world!")&fontSize=65)
 
 ### 💪🏻 Skills
-#### Languages
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://icongr.am/devicon/python-original.svg?size=32&color=currentColor"/> <img src="https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor"/> <img src="https://icongr.am/devicon/react-original.svg?size=32&color=currentColor"/> <img src="https://icongr.am/devicon/git-original.svg?size=32&color=currentColor"/> <img src="https://icongr.am/simple/flask.svg?size=32&color=currentColor&colored=false"/> <img src="https://icongr.am/simple/flask.svg?size=32&color=currentColor&colored=false"/>
 
 #### Source
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=Folium&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
