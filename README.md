@@ -14,5 +14,5 @@ If you need more information, please contact me !
 <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 </a>
 <a href="https://public.tableau.com/app/profile/seungwoonlee" target="_blank">
-<img alt="Tableau" src ="https://img.shields.io/badge/Tableau-ffffff?style=for-the-badge&logo=Tableau&logoColor=black"/>
+<img alt="Tableau" src ="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 </a>
