@@ -1,7 +1,7 @@
 ## Hi There, I'm Ethan Lee 👋  
 
 I'm a data scientist from South Korea 🇰🇷.<br/>
-I'm interested in data science and business IT.
+I'm interested in data science and AL/ML.
 
 
 ### ✨
