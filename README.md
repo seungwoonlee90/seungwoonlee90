@@ -1,7 +1,10 @@
 ## Hi There, I'm Ethan Lee 👋  
 
 I'm a data scientist from South Korea 🇰🇷.<br/>
-I'm interested in data science, AL/ML, and data visualization.
+I'm interested in data science, AL/ML, and data visualization.<br />
+
+### 🎓
+Master of MIS(Management Information System)
 
 
 ### ✨
